@@ -1,0 +1,52 @@
+.haridorlar {
+  padding-top: 233px;
+  padding-bottom: 100px;
+}
+.haridor-sar {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}
+.title-link {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 102px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-bottom: 75px;
+}
+.title-link:hover {
+  color: chocolate;
+  transition: color 0.4s linear;
+}
+.haridor-box {
+  background: rgba(246, 246, 246, 1);
+  border-radius: 10px;
+  display: flex;
+  gap: 75px;
+  padding-bottom: 32px;
+  padding-left: 36px;
+  padding-top: 48px;
+}
+.haridor-h2 {
+  font-family: Poppins, sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.haridor-p {
+  padding-top: 10px;
+  font-family: Poppins, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 100%;
+  max-width: 638px;
+}
